@@ -1,0 +1,21 @@
+# ── Exported data (contains SSH keys, browser profiles, credentials) ──
+data/
+
+# ── Generated files ──
+report.md
+install.log
+
+# ── macOS ──
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# ── Editors ──
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
